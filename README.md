@@ -1,7 +1,7 @@
 ## Project Skeleton 
 
 ```
-003-google-page (folder)
+Google-page (folder)
 |
 |----readme.md         # Given to the students (Definition of the project)          
 |----images               
